@@ -1,8 +1,9 @@
 {
-    "version": 1,
+    "version": 2,
     "show_prefixes": {
         "(TMA) ": "TMA",
         "(MGM) ": "MGM",
-        "(Dolby) ": "Dolby"
+        "(Dolby) ": "Dolby",
+        "(MUA) ": "MUA"
     }
 }
